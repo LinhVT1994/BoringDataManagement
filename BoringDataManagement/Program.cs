@@ -10,6 +10,7 @@ namespace BoringDataManagement
     {
         static void Main(string[] args)
         {
+           // This is the first comment.
         }
     }
 }
